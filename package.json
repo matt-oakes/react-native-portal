@@ -30,6 +30,8 @@
   "dependencies": {
     "mitt": "*",
     "prop-types": "*",
+  },
+  "peerDependencies": {
     "react": "*"
   },
   "devDependencies": {
